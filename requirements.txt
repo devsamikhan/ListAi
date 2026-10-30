@@ -1,0 +1,4 @@
+# ListAI Dependencies
+# Note: Engine A (List Engine) uses ONLY the Python Standard Library.
+# NumPy is required strictly for Engine B (NumPy Engine) and parity/benchmark comparisons.
+numpy>=1.24.0
